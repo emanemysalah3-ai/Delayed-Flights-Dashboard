@@ -48,29 +48,3 @@ Flight delays cost airlines and passengers time and money. This project explores
 ├── data/                    # Dataset (or link to source)
 ├── images/                  # Dashboard screenshots
 └── README.md
-```
-
-## 🚀 How to Use
-
-1. Clone the repo:
-```bash
-   git clone https://github.com/USERNAME/Delayed-Flights-Dashboard.git
-```
-2. Open `DelayedFlights.pbix` in **Power BI Desktop**.
-3. If prompted, update the data source path to your local data file.
-4. Explore the dashboard using the filters and slicers.
-
-## 💡 Key Insights
-
-- [Write 3-4 insights here, e.g. "Carrier WN has the highest total delay minutes."]
-- [e.g. "Late aircraft is the largest contributor to delays."]
-- [e.g. "Delays peak during [month/season]."]
-
-## 📂 Data Source
-
-[Name of the dataset and a link, e.g. Kaggle / US DOT.]
-
-## 👤 Author
-
-**[Your Name]**
-[LinkedIn link] | [Email]
